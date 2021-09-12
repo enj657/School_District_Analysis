@@ -6,11 +6,11 @@ Our client, Maria, likes the work we have done so far with the school district a
 
 ### Purpose
 
-The purpose of this school district analysis is to create dataframes that show how well each school performed with the updated scores for Thomas High School ninth graders. 
+The purpose of this school district analysis is to create data frames that show how well each school performed with the updated scores for Thomas High School ninth graders. 
 
 ## School-District Analysis Results
 
-* The school district summary has changed slightly with the updated data. The first image below shows the old dataframe, and the secoond image shows the new, updated dataframe. The new average math score for the whole district went from 79.0% to 78.9%. The average reading score stayed the same, at 81.9%. The percentages of students that passed math and reading both dropped slightly. The overall percentage of students that passed math and reading went from 65.2% to 64.9%.
+* The school district summary has changed slightly with the updated data. The first image below shows the old data frame, and the second image shows the new, updated data frame. The new average math score for the whole district went from 79.0% to 78.9%. The average reading score stayed the same, at 81.9%. The percentages of students that passed math and reading both dropped slightly. The overall percentage of students that passed math and reading went from 65.2% to 64.9%.
 
 ![image info](./DataFrame_images/district_summary_old.png)
 
@@ -55,4 +55,4 @@ The purpose of this school district analysis is to create dataframes that show h
 
 ## School District Analysis Summary
 
-We changed all the math and reading scores for ninth graders at Thomas High School to be NaN. We observed many changes in our updated analysis. The first change we noticed was that the overall percentage of students that passed in the whole district dropped from 65.2 to 64.9. The second change we saw was that the percentage of students that passed math, reading, and both math and reading greatly increased for Thomas High School. These updated percentages led THS to be in the top 5 schools, at number 2, which was the third change we noticed. The last thing we observed based on our updated data was that the dataframes based on school spending, size, and type did not change significantly. 
+We changed all the math and reading scores for ninth graders at Thomas High School to be NaN. We observed many changes in our updated analysis. The first change we noticed was that the overall percentage of students that passed in the whole district dropped from 65.2 to 64.9. The second change we saw was that the percentage of students that passed math, reading, and both math and reading greatly increased for Thomas High School. These updated percentages led THS to be in the top 5 schools, at number 2, which was the third change we noticed. The last thing we observed based on our updated data was that the data frames based on school spending, size, and type did not change significantly. 
